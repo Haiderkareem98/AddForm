@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\jobs-form-backend\\jobForm\\wwwroot\\Job\\0682b024-3a99-4383-acae-7633599aefc9.jpg",
+      "PackagePath": "staticwebassets\\Job\\0682b024-3a99-4383-acae-7633599aefc9.jpg"
+    },
+    {
+      "Id": "E:\\jobs-form-backend\\jobForm\\wwwroot\\Job\\487ab543-1d4f-49aa-b680-136d2210509f.png",
+      "PackagePath": "staticwebassets\\Job\\487ab543-1d4f-49aa-b680-136d2210509f.png"
+    },
+    {
+      "Id": "E:\\jobs-form-backend\\jobForm\\wwwroot\\Job\\853c3594-b764-4705-a0fb-6c7711ca6e27.png",
+      "PackagePath": "staticwebassets\\Job\\853c3594-b764-4705-a0fb-6c7711ca6e27.png"
+    },
+    {
+      "Id": "E:\\jobs-form-backend\\jobForm\\wwwroot\\Job\\9ea7c7c7-c084-45d3-bde8-8fe7215208bd.png",
+      "PackagePath": "staticwebassets\\Job\\9ea7c7c7-c084-45d3-bde8-8fe7215208bd.png"
+    },
+    {
+      "Id": "E:\\jobs-form-backend\\jobForm\\wwwroot\\Job\\e9cb96e9-aa41-4564-a101-c381ee2017b5.jpg",
+      "PackagePath": "staticwebassets\\Job\\e9cb96e9-aa41-4564-a101-c381ee2017b5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.jobForm.props",
+      "PackagePath": "build\\jobForm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.jobForm.props",
+      "PackagePath": "buildMultiTargeting\\jobForm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.jobForm.props",
+      "PackagePath": "buildTransitive\\jobForm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.jobForm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

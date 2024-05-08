@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>jobForm</name>
+    </assembly>
+    <members>
+        <member name="T:jobForm.Migrations.first">
+            <inheritdoc />
+        </member>
+        <member name="M:jobForm.Migrations.first.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:jobForm.Migrations.first.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:jobForm.Migrations.first.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:jobForm.Migrations.RandomCodeAddd">
+            <inheritdoc />
+        </member>
+        <member name="M:jobForm.Migrations.RandomCodeAddd.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:jobForm.Migrations.RandomCodeAddd.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:jobForm.Migrations.RandomCodeAddd.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
